@@ -12,6 +12,6 @@ export const langSkillsItems = [
   {
     id: 3,
     label: 'Russian',
-    text: 'intermediate',
+    text: 'native',
   },
 ];
