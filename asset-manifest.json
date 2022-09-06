@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f39e1ab.css",
+    "main.js": "/static/js/main.ea4e0afe.js",
+    "static/media/images.png": "/static/media/images.0b433597d260f8e9d375.png",
+    "static/media/photo.jpg": "/static/media/photo.83ba87232d99bc212633.jpg",
+    "static/media/webstudio.png": "/static/media/webstudio.464a1d1bbe364cc50352.png",
+    "static/media/filmoteka.png": "/static/media/filmoteka.3c0f20e21a2df4d43921.png",
+    "static/media/donutMasterclass.png": "/static/media/donutMasterclass.e3400160c4ca8023dba1.png",
+    "static/media/helsocial.png": "/static/media/helsocial.109aa0b6d04a3dcc0ea5.png",
+    "static/media/movies.png": "/static/media/movies.10589ff04a75ce08aab6.png",
+    "static/media/CV.pdf": "/static/media/CV.72ed8d61927b117366f7.pdf",
+    "static/media/proTest.png": "/static/media/proTest.078270ffded11730fe68.png",
+    "static/media/phonebook.png": "/static/media/phonebook.f5b48ff517c391f25881.png",
+    "index.html": "/index.html",
+    "main.6f39e1ab.css.map": "/static/css/main.6f39e1ab.css.map",
+    "main.ea4e0afe.js.map": "/static/js/main.ea4e0afe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f39e1ab.css",
+    "static/js/main.ea4e0afe.js"
+  ]
+}
